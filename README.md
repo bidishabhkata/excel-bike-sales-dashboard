@@ -31,5 +31,6 @@ To analyze customer demographics and behaviors that influence bike purchasing, u
 
 
 ## Dashboard Preview
- <img width="1920" height="1080" alt="Screenshot 2025-07-15 212701" src="https://github.com/user-attachments/assets/b3ac37ed-fee3-4904-9752-1c508fed4b4d" />
+<img width="1920" height="1080" alt="screenshot" src="https://github.com/user-attachments/assets/61bf226e-841d-4a5b-9146-261c5d8316d5" />
+
 
