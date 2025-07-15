@@ -24,11 +24,12 @@ To analyze customer demographics and behaviors that influence bike purchasing, u
 ##  Business Impact
 - Identified key customer segments (middle-aged, married males with short commutes) likely to purchase bikes, enabling more targeted marketing efforts.
 
-Insights on income and commute patterns support pricing strategies and product positioning.
+- Insights on income and commute patterns support pricing strategies and product positioning.
 
-The interactive dashboard allows quick, data-driven decision-making for sales and marketing teams.
+- The interactive dashboard allows quick, data-driven decision-making for sales and marketing teams.
 
 
 
 ## Dashboard Preview
-![alt text](<Screenshot 2025-07-15 212701-1.png>)
+ <img width="1920" height="1080" alt="Screenshot 2025-07-15 212701" src="https://github.com/user-attachments/assets/b3ac37ed-fee3-4904-9752-1c508fed4b4d" />
+
